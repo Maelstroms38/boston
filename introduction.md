@@ -21,7 +21,7 @@ Being part of Beantown has been an inspiration. Following the historic freedom t
 
 As a home to many major league teams, Boston residents rally for their favorites. Near TD Garden, one hears the metro train conductor announce, "Go Celtics!" at North Station. The city boasts two championship teams, with the Patriots and Red Sox in 2018. There must be comraderie in the air, especially when the champion teams visit a Celtics or Bruins game.
 
-![St. Patrick's Parade](https://raw.github.com/maelstroms38/boston/master/assets/parade.jpeg?raw=true 'St. Patrick's Parade')
+![St Patricks Parade](https://raw.github.com/maelstroms38/boston/master/assets/parade.jpeg?raw=true 'St Patricks Parade')
 
 ### Cheering for the St. Patrick's Day Parade
 

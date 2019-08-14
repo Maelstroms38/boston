@@ -1,5 +1,5 @@
 ---
-title: Boston's Best
+title: Introduction
 seoTitle: Boston's Best
 seoDescription: Top Activities in Boston
 isFree: true
